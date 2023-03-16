@@ -1,11 +1,11 @@
-About sqlalchemy-mate
-=====================
+About sqlalchemy-mate-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sqlalchemy-mate-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/MacHu-GWU/sqlalchemy_mate-project
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sqlalchemy-mate-feedstock/blob/main/LICENSE.txt)
 
 Summary: A library extend sqlalchemy module, makes CRUD easier.
 
