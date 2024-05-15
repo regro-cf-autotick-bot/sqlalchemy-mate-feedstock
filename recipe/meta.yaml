@@ -1,5 +1,5 @@
 {% set name = "sqlalchemy-mate" %}
-{% set version = "1.4.28.4" %}
+{% set version = "2.0.0.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sqlalchemy_mate-{{ version }}.tar.gz
-  sha256: bff5fe2a5c965f5c438fe907360abe90eb4de33028c389ae43556194826924dc
+  sha256: e7e27e8758894d67f960dd0135f52376b9682a7968bb8e8f1ddbdd1185016949
 
 build:
   number: 0
